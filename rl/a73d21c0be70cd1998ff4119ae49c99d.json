@@ -1,0 +1,16 @@
+{
+"companyName": "SideQuest",
+"productName": "RaidLand",
+"productVersion": "1.0",
+"dataUrl": "a2c2249ce2af59e24ac6bb70e3b271cc.unityweb",
+"wasmCodeUrl": "070a645fa2cb4dc91084911cec25ce72.wasm",
+"wasmFrameworkUrl": "ba1141ab51fc6c91c5f3f795f46101c4.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.4f1"
+}
